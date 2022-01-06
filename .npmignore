@@ -1,4 +1,6 @@
 src
 webpack.config.js
+node_modules
+hr-modal-0.1.0.tgz
 .babelrc
 .eslintrc.js

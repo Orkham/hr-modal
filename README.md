@@ -1,5 +1,5 @@
 # react-modal-component-library
-A library of React components created using `create-react-app`.
+A React components created with [template](https://javascript.plainenglish.io/how-to-publish-your-react-component-on-npm-9cf48d91944d).
 
 ## Installation
 Run the following command:
