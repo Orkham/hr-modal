@@ -1,6 +1,6 @@
 {
   "name": "hr-modal",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "easy modal for hr-net rework based on React components",
   "main": "./lib/modal.js",
   "license": "MIT",

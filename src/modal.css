@@ -7,6 +7,7 @@
   width: 100%;
   overflow: auto;
   background-color: #404040;
+  opacity: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,7 +24,12 @@
   border-radius: 50%;
   top: -25px;
   right: 13px;
-  font-size: 1.5rem;
+  font-size: 1rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .styledModal #closeIcon:hover{
   cursor: pointer;
